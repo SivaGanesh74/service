@@ -1,0 +1,24 @@
+.services h1{
+    color:rgb(59, 59, 59);
+    padding-left: 15px;
+    font-family: 'Oswald', sans-serif;
+}
+.card{
+    border-radius: 5px;
+    /* border:2px solid rgb(58, 63, 58); */
+    box-shadow: rgba(0,0,0,0.1) 5px 8px 15px;
+}
+.cardimg{
+    height: 15vw;
+    width: 100%;
+}
+
+.services h3{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.services p{
+    font-size: 20px;
+    font-family: 'Oswald', sans-serif;
+}
